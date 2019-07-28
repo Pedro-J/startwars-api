@@ -1,6 +1,6 @@
 # starwars-api
 
-Implementação da API de Planets em Kotlin
+Implementação da API de starwars que contém dados dos planetas em Kotlin
 
 
 ## Configuração da Aplicação:
