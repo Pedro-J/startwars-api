@@ -43,7 +43,13 @@ $   curl -H "Accept: application/json" -X GET http://localhost:8080/planets/{cod
 $   curl -H "Accept: application/json" -X GET http://localhost:8080/planets?name={name} -w '\n'
 ```
 
-## 5 - Deletando planeta por code
+## 6 - Buscando todos os planetas
+
+```
+$   curl -H "Accept: application/json" -X GET http://localhost:8080/planets/list -w '\n'
+```
+
+## 7 - Deletando planeta por code
 
 ```
 $   curl -X DELETE http://localhost:8080/planets/{code} -w '\n'
