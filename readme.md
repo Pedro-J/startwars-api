@@ -1,4 +1,4 @@
-# simio-api
+# starwars-api
 
 Implementação da API de Planets em Kotlin
 
